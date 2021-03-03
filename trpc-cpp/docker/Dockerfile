@@ -2,7 +2,6 @@
 FROM csighub.tencentyun.com/official/tlinux-2.2-base
 #FROM 9.30.0.98:5000/baseimage/tlinux-64bit-v2.2-gcc4.8.5.20170926:2.00
 
-
 # 环境初始化
 # 配置代理
 # 修改yum源
